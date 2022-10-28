@@ -39,5 +39,6 @@ I'm a professional developer and content creator building my version of the digi
 
 <details>
  <summary><h3>👨‍💻 Ian's Coding Journey</h3></summary>
+ I began coding at age 12 coming from a gaming background. While attending university at Charlotte I worked two internships in software engineering. This later led to me working in the Insurance, Financial, Security & Cloud software industry professionally. I have been developing code for over 10 years. I enjoy learning, teaching, mentoring and winning as a team on complex software projects! 
 
 [website]: https://codewithian.com
