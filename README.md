@@ -1,9 +1,10 @@
 # 
-🤓♂️ Ian Halfpenny
+🤓 Ian Halfpenny
 
 **`Coder Guy`**
 
 I'm a professional developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+[website]: https://codewithian.com
 
 
 ---
@@ -28,14 +29,12 @@ I'm a professional developer and content creator building my version of the digi
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-
 
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-withian&show_icons=true&theme=gruvbox)
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=code-withian&show_icons=true&theme=gruvbox)
 
 
 
