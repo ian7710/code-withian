@@ -3,7 +3,7 @@
 
 **`Coder Guy`**
 
-I'm a professional developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
+I'm a professional developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 
 ---
@@ -39,5 +39,7 @@ I'm a professional developer and content creator building my version of the digi
 
 
 
+<details>
+ <summary><h3>👨‍💻 Ian's Coding Journey</h3></summary>
 
 [website]: https://codewithian.com
