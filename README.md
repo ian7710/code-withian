@@ -7,7 +7,7 @@ I'm a professional developer and content creator building my version of the digi
 
 Follow me on other Socials: </br>
 <a href="https://stackoverflow.com/users/11056800/codewithian">StackOverflow</a> </br>
-<a href="www.linkedin.com/in/codewithian">Linkedin</a>
+<a href="https://www.linkedin.com/in/codewithian">Linkedin</a>
 
 
 ---
