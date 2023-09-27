@@ -3,7 +3,7 @@ Ian Thomas
 
 **`Software Engineer`**
 
-I'm a professional software developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Dedicated and innovative Software Engineer with a proven track record of designing, developing, and deploying cutting-edge software solutions. Adept at collaborating with cross-functional teams to deliver high-quality products that meet and exceed customer expectations. Possesses a deep understanding of software development methodologies, programming languages, and emerging technologies, enabling the creation of efficient, scalable, and maintainable software systems. Committed to staying at the forefront of the industry by continuously expanding knowledge and skills.
 
 Follow me on other Socials: </br>
 <a target="_blank" href="https://stackoverflow.com/users/11056800/codewithian">StackOverflow</a> </br>
