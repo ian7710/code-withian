@@ -7,7 +7,7 @@ I'm a professional software developer and content creator building my version of
 
 Follow me on other Socials: </br>
 <a target="_blank" href="https://stackoverflow.com/users/11056800/codewithian">StackOverflow</a> </br>
-<a target="_blank" href="https://www.linkedin.com/company/80064722">Linkedin</a>
+<a target="_blank" href="https://www.linkedin.com/in/ianhalfpenny1">Linkedin</a>
 
 
 ---
