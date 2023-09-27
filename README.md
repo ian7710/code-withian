@@ -1,12 +1,11 @@
 # 
-🤓 Code With Ian
+Ian Thomas
 
-**`Coder Guy`**
+**`Software Engineer`**
 
-I'm a professional developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a professional software developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 Follow me on other Socials: </br>
-<a target="_blank" href="https://codewithian.com/">Website</a> </br>
 <a target="_blank" href="https://stackoverflow.com/users/11056800/codewithian">StackOverflow</a> </br>
 <a target="_blank" href="https://www.linkedin.com/company/80064722">Linkedin</a>
 
