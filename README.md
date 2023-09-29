@@ -33,12 +33,13 @@ Ian Thomas
 🌟 I'm always eager to learn and stay up-to-date with the latest industry trends and technologies. I'm open to new opportunities, challenges, and collaborations that allow me to continue pushing the boundaries of what's possible in Java development.
 
 📫 Let's Connect:
-📧 Feel free to reach out to me at ianthomas.dev@gmail.com.
-🌐 Visit my website: ianthomas.dev
-📱 Connect with me on Twitter: ianthomas.dev
-📸 Check out my latest projects on GitHub: code-withian
+📧 Feel free to reach out to me at ianthomas.dev@gmail.com.  
+🌐 Visit my website: ianthomas.dev  
+📱 Connect with me on Twitter: ianthomas.dev  
+📸 Check out my latest projects on GitHub: code-withian  
 
 🙌 I'm excited to connect with fellow professionals, share insights, and explore potential collaborations. Let's work together to create exceptional software solutions!
+
 
 Follow me on other Socials: </br>
 <a target="_blank" href="https://stackoverflow.com/users/11056800/codewithian">StackOverflow</a> </br>
