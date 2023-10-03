@@ -3,43 +3,6 @@ Ian Thomas
 
 **`Software Engineer`**
 
-👋 Hello! I'm Ian Thomas, a passionate and experienced Senior Java Developer with a track record of crafting high-performance, scalable, and mission-critical software solutions. I thrive on solving complex problems and building robust applications that drive business success.
-
-🔷 About Me:
-🚀 Over 10 years of hands-on experience in Java development.
-🌐 Expertise in full-stack development, including frontend and backend technologies.
-💼 Proven ability to design and implement scalable architecture for large-scale applications.
-🧩 Strong problem-solving skills and a keen eye for optimization.
-👥 Collaborative team player with excellent communication skills.
-
-💻 Technical Proficiencies:
-✔️ Java (Java EE, Spring Boot, Hibernate)
-✔️ JavaScript (React, Angular, Vue.js)
-✔️ Database Management (SQL, NoSQL)
-✔️ Microservices Architecture
-✔️ RESTful APIs
-✔️ DevOps (Docker, Kubernetes, Jenkins)
-✔️ Cloud Platforms (AWS, Azure, GCP)
-
-📜 Accomplishments:
-🏆 Led the development of many enterprise application projects, resulting in production grade applications for big companies.
-📈 Optimized Database Driven CMS systems that led to a 30% increase in performance.
-💡 Implemented best practices, reducing system downtime by 60%.
-🌍 Contributed to global teams, collaborating across time zones and cultures.
-
-📚 Education:
-🎓 Bachelor's in Computer Science from The University of North Carolina at Charlotte
-
-🌟 I'm always eager to learn and stay up-to-date with the latest industry trends and technologies. I'm open to new opportunities, challenges, and collaborations that allow me to continue pushing the boundaries of what's possible in Java development.
-
-📫 Let's Connect:
-📧 Feel free to reach out to me at ianthomas.dev@gmail.com.  
-🌐 Visit my website: ianthomas.dev  
-📱 Connect with me on Twitter: ianthomas.dev  
-📸 Check out my latest projects on GitHub: code-withian  
-
-🙌 I'm excited to connect with fellow professionals, share insights, and explore potential collaborations. Let's work together to create exceptional software solutions!
-
 
 Follow me on other Socials: </br>
 <a target="_blank" href="https://stackoverflow.com/users/11056800/codewithian">StackOverflow</a> </br>
